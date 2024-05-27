@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tongcen
-- 👀 I’m interested in crop breeding, I also finished my research project on barley waterlogging gene identification.
+- 👀 I’m interested in crop breeding, I also finished my research project on barley waterlogging tolerance genes identification.
 - 🌱 I’m currently learning single-cell sequencing and spatial transcriptomics.
 - 📫 Tongcen2017@gmail.com
 - 😄 Pronouns: ...
